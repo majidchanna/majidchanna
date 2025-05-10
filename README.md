@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majidchanna
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning java_script.
 - 📫 How to reach me through linkdin https://www.linkedin.com/in/majid-ali-channa-581a7a2a5/
 - 😄 Pronouns: MAC
 - ⚡ Fun fact: ...
